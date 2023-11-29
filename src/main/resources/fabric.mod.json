@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "mocha",
+	"version": "${version}",
+	"name": "Mocha",
+	"description": "Various additions.",
+	"authors": [
+		"bios"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/mocha/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bios.Mocha"
+		]
+	},
+	"mixins": [
+		"mocha.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.25",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {}
+}

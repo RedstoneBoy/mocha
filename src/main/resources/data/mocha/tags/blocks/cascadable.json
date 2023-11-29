@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:logs",
+    "#minecraft:leaves",
+    "#minecraft:wart_blocks",
+    "#minecraft:coal_ores",
+    "#minecraft:copper_ores",
+    "#minecraft:iron_ores",
+    "#minecraft:gold_ores",
+    "#minecraft:diamond_ores",
+    "minecraft:nether_quartz_ore",
+    "minecraft:shroomlight",
+    "minecraft:sponge",
+    "minecraft:wet_sponge",
+    "minecraft:hay_block",
+    "minecraft:glowstone",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil"
+  ]
+}
